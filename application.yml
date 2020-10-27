@@ -1,2 +1,2 @@
-application:
-  message: Configuration by Azure Spring Cloud Config at shinyay git repository
+feature-flag:  
+  saveInventory: true  
